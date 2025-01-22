@@ -28,4 +28,4 @@ Follow path `src.calcualtor/gui/Main.java` to compile and run the code
 - [Michael Liu](https://github.com/Michaelliu1017)
 - [Erin Shi](https://github.com/Erin-ovo)
 - [Charles Zhang](https://github.com/bocchii-the-code)
-## other
+## Other
